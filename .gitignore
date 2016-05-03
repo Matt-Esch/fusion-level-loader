@@ -1,0 +1,11 @@
+Debug/
+Release/
+Release_Small/
+Run_Only/
+Run_Only_Small/
+ipch/
+*.sdf
+*.suo
+*.user
+*.pch
+*.ncb
